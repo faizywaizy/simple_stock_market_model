@@ -1,4 +1,5 @@
 # simple_stock_market_model
+
 - Build a model that will predict whether a stock price will increase or decrease the next day
 - We will be basing our prediction on the amount of volume exchanged by the end of a certain day
 - The price of a stock at the end of the day is different than at the beginning of the next day. We want to retrieve
